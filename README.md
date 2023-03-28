@@ -1,5 +1,13 @@
 # Projeto_Paralax
 
+![image](https://user-images.githubusercontent.com/114995774/228097816-47a3d64d-d299-43b8-a9e0-ce3c551df256.png)
+
+![image](https://user-images.githubusercontent.com/114995774/228097970-45bac51a-c67e-4bdb-b898-f7e350832448.png)
+
+![image](https://user-images.githubusercontent.com/114995774/228098015-c0c74b46-a50f-4e00-8b12-09b7153a67b5.png)
+
+![image](https://user-images.githubusercontent.com/114995774/228098077-65b00635-bcf7-4cc8-b334-ffd24b8a7a58.png)
+
 
 <h1> Visão Geral</h1>
 

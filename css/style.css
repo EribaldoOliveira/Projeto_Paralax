@@ -28,7 +28,7 @@
 		/* Efeito Paralax
 		________________________ */
 
-		.caixa1, .caixa2, .caixa3,.caixa4{
+		.caixa-opacidade {
 			position: relative;
 			border: 1px solid red;
 			height: 100%;
@@ -37,6 +37,21 @@
 			background-size: cover;
 			background-position: center;
 			background-attachment: fixed; /*a imagem fica fixa*/
+		}
+
+		.caixa1, .caixa2, .caixa3,.caixa4, .caixa5,.caixa6{
+			position: relative;
+			border: 1px solid red;
+			height: 100%;
+/*			opacity: 0.7;*/
+			background-repeat: no-repeat;
+			background-size: cover;
+			background-position: center;
+			background-attachment: fixed; /*a imagem fica fixa*/
+		}
+
+		.caixa-opacidade {
+			background-image: url(../imagens/imagem1-opacidade.jpg);
 		}
 
 		.caixa1 {
@@ -54,6 +69,15 @@
 		.caixa4 {
 			background-image: url(../imagens/imagem4.jpg);
 		}
+
+		.caixa5 {
+			background-image: url(../imagens/imagem5.jpg);
+		}
+
+		.caixa6 {
+			background-image: url(../imagens/imagem6.jpg);
+		}
+
 
 		.conteudo-titulo {
 			position: absolute;
